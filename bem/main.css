@@ -22,7 +22,7 @@
 .produto__descricao {
   color: gray;
 }
-.produto__2destaque {
+.produto__destaque--active {
   border: 2px solid gold;
   padding: 8px;
   background-color: #ffff42;

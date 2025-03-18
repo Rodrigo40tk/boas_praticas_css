@@ -24,10 +24,13 @@
         color: gray;
     }
 
-    &__2destaque {
-        border: 2px solid gold;
-        padding: 8px;
-        background-color: #ffff42;
+    &__destaque{
+
+        &--active {
+            border: 2px solid gold;
+            padding: 8px;
+            background-color: #ffff42;
+        }
     }
 
 
